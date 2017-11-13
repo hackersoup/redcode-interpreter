@@ -1,0 +1,7 @@
+MOV 1, 0
+MOV 0, 1
+NOP
+JMP 1234
+JMZ 9, 1
+ADD 1, 2
+SUB 3, 4
